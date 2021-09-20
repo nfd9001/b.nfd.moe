@@ -1,4 +1,7 @@
-= nfd's blog sources =
+# nfd's blog sources #
+
+**[Click here to go to the actual site.](https://b.nfd.moe/)**
+
 This is a Hakyll blog,
 which cribs from a bunch of the tutorials on the Jekyll
 site,
