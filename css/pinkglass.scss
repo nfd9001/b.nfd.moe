@@ -1,0 +1,51 @@
+// Define defaults for each variable.
+$base-font-family: 'Helvetica Neue', Arial, Helvetica, Verdana,'Helvetica Neue', Arial, Helvetica, Verdana, !default;
+//$base-font-family: Bitter, "Apple SD Gothic Neo", "Noto Sans", "Source Han Sans", "Noto Sans CJK JP", "Source Han Sans JP", "Noto Sans CJK KR", "Source Han Sans KR", NanumBarunGothic, AppleGothic, "Malgun Gothic", Dotum, sans-serif !default;
+$monospace-font-family: Source Code Pro, Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 2.0 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #003792 !default;
+$background-color: #ffe1dd !default;
+$brand-color:      #2568ba !default;
+
+$grey-color:       #584B53 !default;
+$grey-color-light: lighten($grey-color, 45%) !default;
+$grey-color-dark:  darken($grey-color, 20%) !default;
+
+$unopened-color: #8b111e !default
+$opened-color: desaturate($unopened-color, 20%) !default
+
+// Width of the content area
+$content-width:    700px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        700px !default;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+
+
+// Import partials.
+@import
+  "pinkglass/base",
+  "pinkglass/layout",
+  "pinkglass/syntax-highlighting"
+;

@@ -1,0 +1,18 @@
+<article>
+    <section class="header">
+        <p class="post-meta">
+            Posted on $date$
+            $if(author)$
+                by $author$
+            $endif$
+        </p>
+        <p class="post-meta">
+            $if(tags)$
+            Tags: $tags$
+            $endif$
+        </p>
+    </section>
+    <section>
+        $body$
+    </section>
+</article>
