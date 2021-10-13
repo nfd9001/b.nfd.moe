@@ -160,18 +160,22 @@ We've got a couple more assumptions to take note of before we can tie that knot.
 #### Different people have very different epistemologies
 
 I want to take this opportunity to state that I'm **not** taking hard-conflict theory to mean
-"people's worldviews are more-or-less immutable to well-reasoned argument." I don't believe that.
-[Daryl Davis](https://en.wikipedia.org/wiki/Daryl_Davis) is a living counterexample to that idea.
-He's a black man who keeps a collection of KKK robes, given to him by the people who had worn them.
-Lots of people's minds can be changed by the application of careful, persistent opposition.
-I don't think argument alone should be considered to be a solution to extremism.
-Argument can be an excellent remedy. A solution would probably include a vaccine.
-We just don't know what that vaccine would look like. 
-I feel that it's critical to point out that we don't use vaccines to 
-prevent people from going out in the germ-filled world and living their germy, germy lives.
-We use them to safely expose them to some pathogen,
-so it won't damage them or the people around them as badly when they encounter the pathogen in their normal lives.
-This is, to my eyes, a critical part of that metaphor.
+"people's worldviews are more-or-less immutable to well-reasoned argument." 
+My thoughts there are much more complicated,
+and they honestly deserve their own essay.
+But in brief,
+having one-on-one, private discussions
+with acquaintences, friends, or family with beliefs you're worried about
+can often be helpful.
+So can public discussion and social media use,
+when you know what you're talking about and use evidence-based strategies to do so.
+([Here's a guide on that.](https://www.climatechangecommunication.org/debunking-handbook-2020/))
+A good technique for combatting extremism would probably include a "vaccine:"
+some sort of tool that could allow someone to more-safely be exposed
+to some virulent ideas.
+(Those-in-the-know, like social scholars and historians,
+really don't seem to expect that a solution to extremism exists.
+Dealing with extremism takes constant, evolving effort from lots of people.)
 
 [danah boyd has written a piece that I think is highly relevant to this discussion.](https://points.datasociety.net/you-think-you-want-media-literacy-do-you-7cad6af18ec2)
 I don't think I can give her piece justice with a short summary,
@@ -281,7 +285,36 @@ I didn't find satisfying places to work these SSC posts that he suggested into t
 but I think they're interesting enough to tuck links to them down here:
 [In Favor Of Niceness, Community, and Civilization](https://slatestarcodex.com/2014/02/23/in-favor-of-niceness-community-and-civilization/),
 [The Toxoplasma Of Rage](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/).
-If I find that Scott Alexander mentions this post publically (no pressure),
+If I find that Scott Alexander mentions this post publicly (no pressure),
 *this text will be a link to that reply.*
 
-*note: Made some minor wording edits on 2020-3-7.*
+#### Revision history
+- 2020-03-07: Made some minor wording edits.
+- 2021-10-13: Significantly reworked the beginning of the section
+  "Different people have very different epistemologies."
+    - I invoked the story of Daryl Davis as an example of
+      changing people's minds through deliberate, sustained conversation.
+      Davis certainly still has his collection of Klan robes,
+      and that does make a pretty good story,
+      but I'm definitely personally questioning a lot of his methods at this point,
+      especially how he's doing his talking-to-extremists schtick a bit too
+      publicly for my nerves.
+      I don't think his story is especially appropriate for this essay
+      because I've begun to doubt his methods,
+      because his example is pointlessly extreme relative to the extremists
+      most people might feel an urge to talk to,
+      and I'd hate to uncritically point to him as an example of
+      "doing things right."
+      I'd have to do a lot of new research 
+      (combing through Davis' massive number of interviews,
+      and watching his documentary, for starters)
+      to do that "doing things right" idea much justice,
+      and it's not necessarily really the sort of thing I feel I should write about.
+
+    - I think I got a bit too in-the-weeds talking about "solutions"
+      to extremism, and probably was too aggressively optimistic about the idea.
+      I've significantly toned down a lot of my wording.
+  Since I still have some bugbears with a piece I wrote so long ago,
+  this might be an indication that I should revisit a bunch of these ideas
+  in the newer voice I've been writing with. Food for thought?
+
