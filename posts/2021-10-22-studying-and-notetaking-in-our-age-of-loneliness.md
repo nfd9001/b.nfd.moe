@@ -81,7 +81,7 @@ Third-party modifications of reMarkable are unsupported,
 and pretty much anything custom that I'm mentioning here
 *could* eventually leave you with the world evaporating under you.
 This said, I'm not under the impression that reMarkable's team is particularly
-likely to deliberately try to break your mods,
+likely to deliberately try to break your mods.
 
 ### Toltec
 [This is your quick-and-easy entry to the rM modding community](https://toltec-dev.org/).
