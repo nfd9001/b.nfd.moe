@@ -62,6 +62,7 @@ Decide on some programs you'd like to learn that feel like they're *just* past w
 and work until you can write them.
 
 If you need some ideas for tasks, here's a few, roughly in ascending order of difficulty:
+
 - CLI calculator
 - a small game (maybe one JRPG-style combat?)
 - an interactive love letter for someone
@@ -71,10 +72,12 @@ If you need some ideas for tasks, here's a few, roughly in ascending order of di
 - your own simplified version of `make`
 - socket-based two-way chat program
 - socket-based many-clients one-server chat program (maybe [IRC](https://tools.ietf.org/html/rfc1459) if you're feeling brave!)
+
 (The programs you write should be pretty basic for a pretty decent amount of time!
 That's normal!)
 
 Make sure to learn about...
+
 - pointers
 - arrays
 - structs
@@ -122,6 +125,7 @@ You've basically covered the content of the four most important courses I took i
 plus a little.
 
 ### Intermediate/Advanced
+
 - ***Write some programs and libraries.***
 - Learn shell scripting on at least your preferred platform and on POSIX systems.
 - Learn Java and/or C#.
@@ -133,3 +137,4 @@ plus a little.
 - Write a program for some old-school hardware in 6502 asm, Z80 asm, or similar.
    - If you want people to be able to run your program forever, write it for the Nintendo Entertainment System.
 - Learn some other weird languages if you want. I like Haskell, for example.
+
